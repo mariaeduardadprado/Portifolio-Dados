@@ -19,7 +19,7 @@ Durante o desenvolvimento, buscamos responder às seguintes perguntas:
 ---
 
 ## Arquitetura do Projeto
-![Arquitetura do Pipeline](./imagens/Desafio-FilmesSeries-Completo.png)
+![Arquitetura do Pipeline](./Imagens/Desafio-FilmesSeries-Completo.png)
 
 
 
@@ -42,7 +42,7 @@ Durante o desenvolvimento, buscamos responder às seguintes perguntas:
   - Fato: `fato_movie_rating`  
   - Dimensões: `dim_movies`, `dim_genero`, `dim_diretor`, `dim_cou try`, `dim_orcamento`, `dim_data`  
    
-  ![Modelo Dimensional](./imagens/modelodimensional-starschema.png)  
+  ![Modelo Dimensional](./Imagens/modelodimensional-starschema.png)  
   - Jobs em PySpark para união de esquemas e criação de dimensões/fatos.  
 
 ### 4. Visualização
@@ -59,7 +59,7 @@ Durante o desenvolvimento, buscamos responder às seguintes perguntas:
 ---
 
 ## Dashboard  
-![Exemplo Dashboard](./imagens/Dashboard.png)
+![Exemplo Dashboard](./Imagens/Dashboard.png)
 
 ---
 
