@@ -44,7 +44,7 @@ Detalhes, consultas e validações: [analise_sql.ipynb](./scr/analise.ipynb).
 ![Modelo dimensional](./modelo/modelo_dimensional.png)
 ---
 ## Dashboard
-![Dashboard](./bi/Captura%20de%20tela%202025-09-25%20133308.png)
+![Dashboard](./bi/dashboardimagem.png)
 
 ## Decisões Técnicas
 - SQLite pela simplicidade e reprodutibilidade em teste técnico.
