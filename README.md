@@ -24,13 +24,13 @@ Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encont
 - **Descrição:** Sistema multi-agente de IA para análise de dados de e-commerce em tempo real. Combina consultas SQL e busca semântica (RAG) para responder perguntas via chat.
 - **Funcionalidades:** Análise de faturamento, ticket médio e vendas por região, extração de insights de reviews (sentimento e padrões), interface conversacional para interação com os dados
 - **Tecnologias:** Python, SQL, RAG, Qdrant, LlamaIndex, CrewAI, Chainlit, Docker
-- **Repositório:** [ShopAgent](https://github.com/mariaeduardaprado/shopagent)
+- **Repositório:** [ShopAgent](https://github.com/mariaeduardadprado/ShopAgent)
 
 ### 3. **Agente de Milhas**
 - **Descrição:** Assistente inteligente para análise e otimização de uso de milhas aéreas, ajudando na tomada de decisão para resgates e acúmulo.
 - **Funcionalidades:** Análise de custo-benefício de passagens, recomendações de uso de milhas, simulação de cenários de resgate
 - **Tecnologias:** Python, APIs, análise de dados, IA
-- **Repositório:** [AgenteDeMilhas](./Agente-especializado-em-milhas)
+- **Repositório:** [AgenteDeMilhas](https://github.com/mariaeduardadprado/Agente-especializado-em-milhas)
 
 ### **4. Netflix Analytics- Power BI**
 - **Descrição: Projeto completo de análise de dados do catálogo da Netflix, cobrindo ingestão, tratamento, modelagem e visualização para responder perguntas de negócio.
@@ -48,7 +48,7 @@ Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encont
 - **Descrição:** Sistema inteligente para processamento automatizado de demandas, utilizando IA para classificar, extrair informações e apoiar decisões.
 - **Funcionalidades:** Classificação automática de solicitações, extração de dados relevantes, apoio à tomada de decisão
 - **Tecnologias:** Python, NLP, IA Generativa, APIs, automação de processos
-- **Repositório:** [AIClaimProcessor](./ai-claim-document-processor)
+- **Repositório:** [AIClaimProcessor](https://github.com/mariaeduardadprado/ai-claim-document-processor)
 
 ---
 
