@@ -1,14 +1,14 @@
 # Portfólio de Engenharia e Análise de Dados
 
-Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encontrará projetos que demonstram minhas habilidades em Python, SQL, AWS, ETL, análise de dados, visualização e modelagem de dados.
+Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encontrará projetos que demonstram minhas habilidades em Python, SQL, AWS, ETL, análise de dados, inteligência artificial e sistemas baseados em dados.
 
 ---
 
 ## 📌 Sobre Mim
 
 - Nome: Maria Eduarda Prado  
-- Área: Engenharia e Análise de Dados  
-- Ferramentas e Tecnologias: Python (Pandas, NumPy, ETL), SQL, Power BI, AWS (EC2, S3, Lambda, Glue, Athena), Spark, Git/GitHub  
+- Área: Data & AI 
+- Ferramentas e Tecnologias: Python (Pandas, NumPy, ETL), SQL, Power BI, AWS (EC2, S3, Lambda, Glue, Athena), Spark, Git/GitHub, IA Generativa, RAG, Multi-Agents  
 - Objetivo: Aplicar conhecimento em projetos reais, aprender continuamente e gerar insights de valor a partir de dados  
 
 ---
@@ -20,13 +20,23 @@ Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encont
 - **Tecnologias:** Python, SQL, AWS S3, AWS Lambda, AWS Glue, AWS Quicksight  
 - **Repositório:** [RomanceMoviesAnalytics](./RomanceMoviesAnalytics)
 
-## 🛠 Habilidades
+### 2. **ShopAgent**
+- **Descrição:** Sistema multi-agente de IA para análise de dados de e-commerce em tempo real. Combina consultas SQL e busca semântica (RAG) para responder perguntas via chat.
+- **Funcionalidades:** Análise de faturamento, ticket médio e vendas por região, extração de insights de reviews (sentimento e padrões), interface conversacional para interação com os dados
+- **Tecnologias:** Python, SQL, RAG, Qdrant, LlamaIndex, CrewAI, Chainlit, Docker
+- **Repositório:** [ShopAgent](./ShopAgent )
 
-- **Linguagens:** Python, SQL  
-- **Ferramentas de Visualização:** Power BI, Matplotlib, Seaborn  
-- **Cloud & Big Data:** AWS (S3, EC2, Lambda, Glue, Athena), Spark  
-- **Versionamento:** Git/GitHub  
-- **Outras:** ETL, Data Cleaning, Data Modeling, Estatística Descritiva  
+### 3. **Agente de Milhas**
+- **Descrição:** Assistente inteligente para análise e otimização de uso de milhas aéreas, ajudando na tomada de decisão para resgates e acúmulo.
+- **Funcionalidades:** Análise de custo-benefício de passagens, recomendações de uso de milhas, simulação de cenários de resgate
+- **Tecnologias:** Python, APIs, análise de dados, IA
+- **Repositório:** [AgenteDeMilhas](./Agente-especializado-em-milhas)
+
+### 4. **AI Claim Processor**
+- **Descrição:** Sistema inteligente para processamento automatizado de claims, utilizando IA para classificar, extrair informações e apoiar decisões.
+- **Funcionalidades:** Classificação automática de solicitações, extração de dados relevantes, apoio à tomada de decisão
+- **Tecnologias:** Python, NLP, IA Generativa, APIs, automação de processos
+- **Repositório:** [AIClaimProcessor](./ai-claim-document-processor )
 
 ---
 
