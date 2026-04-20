@@ -24,7 +24,7 @@ Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encont
 - **Descrição:** Sistema multi-agente de IA para análise de dados de e-commerce em tempo real. Combina consultas SQL e busca semântica (RAG) para responder perguntas via chat.
 - **Funcionalidades:** Análise de faturamento, ticket médio e vendas por região, extração de insights de reviews (sentimento e padrões), interface conversacional para interação com os dados
 - **Tecnologias:** Python, SQL, RAG, Qdrant, LlamaIndex, CrewAI, Chainlit, Docker
-- **Repositório:** [ShopAgent](./ShopAgent )
+- **Repositório:** [ShopAgent](./shopagent)
 
 ### 3. **Agente de Milhas**
 - **Descrição:** Assistente inteligente para análise e otimização de uso de milhas aéreas, ajudando na tomada de decisão para resgates e acúmulo.
@@ -36,19 +36,19 @@ Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encont
 - **Descrição: Projeto completo de análise de dados do catálogo da Netflix, cobrindo ingestão, tratamento, modelagem e visualização para responder perguntas de negócio.
 - **Funcionalidades:** Pipeline de dados com ingestão e transformação em SQLite, modelagem com tabelas normalizadas (países e gêneros), análises como top países, evolução temporal e distribuição de conteúdos, dashboard interativo para visualização dos insights
 - **Tecnologias**: Python, SQL (SQLite), Power BI
-- **Repositório:** [NetflixAnalytics](./)
+- **Repositório:** [NetflixAnalytics](./netflix-analytics)
 
 ### **5. Previsão de Estoque Inteligente na AWS**
 - **Descrição:** Projeto de Machine Learning para previsão de demanda de estoque utilizando ferramenta no-code da AWS, com foco em tomada de decisão e otimização de inventário.
 - **Funcionalidades:** Criação de modelo preditivo com Amazon SageMaker Canvas, análise de variáveis e métricas de desempenho, geração de previsões de demanda futura, identificação de padrões de consumo e riscos de ruptura
 **Tecnologias:** AWS (SageMaker Canvas), Machine Learning (AutoML), análise de dados
-**Repositório:** [StockForecastAWS](./)
+**Repositório:** [StockForecastAWS](./OneDrive/Documentos/desafio-DIO/meu-projeto)
 
 ### 6. **AI Claim Processor**
 - **Descrição:** Sistema inteligente para processamento automatizado de demandas, utilizando IA para classificar, extrair informações e apoiar decisões.
 - **Funcionalidades:** Classificação automática de solicitações, extração de dados relevantes, apoio à tomada de decisão
 - **Tecnologias:** Python, NLP, IA Generativa, APIs, automação de processos
-- **Repositório:** [AIClaimProcessor](./ai-claim-document-processor )
+- **Repositório:** [AIClaimProcessor](./ai-claim-document-processor)
 
 ---
 
