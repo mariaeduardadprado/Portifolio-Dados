@@ -32,8 +32,20 @@ Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encont
 - **Tecnologias:** Python, APIs, análise de dados, IA
 - **Repositório:** [AgenteDeMilhas](./Agente-especializado-em-milhas)
 
-### 4. **AI Claim Processor**
-- **Descrição:** Sistema inteligente para processamento automatizado de claims, utilizando IA para classificar, extrair informações e apoiar decisões.
+### **4. Netflix Analytics- Power BI**
+- **Descrição: Projeto completo de análise de dados do catálogo da Netflix, cobrindo ingestão, tratamento, modelagem e visualização para responder perguntas de negócio.
+- **Funcionalidades:** Pipeline de dados com ingestão e transformação em SQLite, modelagem com tabelas normalizadas (países e gêneros), análises como top países, evolução temporal e distribuição de conteúdos, dashboard interativo para visualização dos insights
+- **Tecnologias**: Python, SQL (SQLite), Power BI
+- **Repositório:** [NetflixAnalytics](./)
+
+### **5. Previsão de Estoque Inteligente na AWS**
+- **Descrição:** Projeto de Machine Learning para previsão de demanda de estoque utilizando ferramenta no-code da AWS, com foco em tomada de decisão e otimização de inventário.
+- **Funcionalidades:** Criação de modelo preditivo com Amazon SageMaker Canvas, análise de variáveis e métricas de desempenho, geração de previsões de demanda futura, identificação de padrões de consumo e riscos de ruptura
+**Tecnologias:** AWS (SageMaker Canvas), Machine Learning (AutoML), análise de dados
+**Repositório:** [StockForecastAWS](./)
+
+### 6. **AI Claim Processor**
+- **Descrição:** Sistema inteligente para processamento automatizado de demandas, utilizando IA para classificar, extrair informações e apoiar decisões.
 - **Funcionalidades:** Classificação automática de solicitações, extração de dados relevantes, apoio à tomada de decisão
 - **Tecnologias:** Python, NLP, IA Generativa, APIs, automação de processos
 - **Repositório:** [AIClaimProcessor](./ai-claim-document-processor )
