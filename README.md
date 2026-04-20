@@ -24,7 +24,7 @@ Bem-vindo ao meu portfólio de Engenharia e Análise de Dados! Aqui você encont
 - **Descrição:** Sistema multi-agente de IA para análise de dados de e-commerce em tempo real. Combina consultas SQL e busca semântica (RAG) para responder perguntas via chat.
 - **Funcionalidades:** Análise de faturamento, ticket médio e vendas por região, extração de insights de reviews (sentimento e padrões), interface conversacional para interação com os dados
 - **Tecnologias:** Python, SQL, RAG, Qdrant, LlamaIndex, CrewAI, Chainlit, Docker
-- **Repositório:** [ShopAgent](./shopagent)
+- **Repositório:** [ShopAgent](https://github.com/mariaeduardaprado/shopagent)
 
 ### 3. **Agente de Milhas**
 - **Descrição:** Assistente inteligente para análise e otimização de uso de milhas aéreas, ajudando na tomada de decisão para resgates e acúmulo.
